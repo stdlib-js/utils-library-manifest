@@ -38,7 +38,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/cli": "^0.0.x",
+    "@stdlib/cli-ctor": "^0.0.x",
     "@stdlib/fs-resolve-parent-path": "^0.0.x",
     "@stdlib/utils-convert-path": "^0.0.x",
     "debug": "^2.6.9",
