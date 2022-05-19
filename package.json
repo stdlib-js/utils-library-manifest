@@ -45,7 +45,8 @@
     "@stdlib/fs-resolve-parent-path": "^0.0.x",
     "@stdlib/utils-convert-path": "^0.0.x",
     "debug": "^2.6.9",
-    "resolve": "^1.1.7"
+    "resolve": "^1.1.7",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-is-browser": "^0.0.x",
