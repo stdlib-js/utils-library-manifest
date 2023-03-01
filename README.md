@@ -224,10 +224,10 @@ console.dir( conf );
 
 ## Installation
 
-To use the module as a general utility, install the module globally
+To use as a general utility, install the CLI package globally
 
 ```bash
-npm install -g @stdlib/utils-library-manifest
+npm install -g @stdlib/utils-library-manifest-cli
 ```
 
 </section>
@@ -357,6 +357,10 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib]: https://github.com/stdlib-js/stdlib
 
 [stdlib-authors]: https://github.com/stdlib-js/stdlib/graphs/contributors
+
+[cli-section]: https://github.com/stdlib-js/utils-library-manifest#cli
+[cli-url]: https://github.com/stdlib-js/utils-library-manifest/tree/cli
+[@stdlib/utils-library-manifest]: https://github.com/stdlib-js/utils-library-manifest/tree/main
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-library-manifest/main/LICENSE
 
