@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-library-manifest",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Load a manifest for compiling source files.",
   "license": "Apache-2.0",
   "author": {
@@ -41,18 +41,18 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/cli-ctor": "^0.0.3",
-    "@stdlib/fs-resolve-parent-path": "^0.0.8",
-    "@stdlib/utils-convert-path": "^0.0.8",
+    "@stdlib/cli-ctor": "^0.1.0",
+    "@stdlib/fs-resolve-parent-path": "^0.1.0",
+    "@stdlib/utils-convert-path": "^0.1.0",
     "debug": "^2.6.9",
     "resolve": "^1.1.7"
   },
   "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.0.8",
-    "@stdlib/assert-is-plain-object": "^0.0.7",
-    "@stdlib/assert-is-windows": "^0.0.7",
-    "@stdlib/fs-read-file": "^0.0.8",
-    "@stdlib/process-exec-path": "^0.0.7",
+    "@stdlib/assert-is-browser": "^0.1.0",
+    "@stdlib/assert-is-plain-object": "^0.1.0",
+    "@stdlib/assert-is-windows": "^0.1.0",
+    "@stdlib/fs-read-file": "^0.1.0",
+    "@stdlib/process-exec-path": "^0.1.0",
     "@stdlib/utils-keys": "^0.0.7",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
