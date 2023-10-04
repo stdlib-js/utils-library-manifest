@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-library-manifest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Load a manifest for compiling source files.",
   "license": "Apache-2.0",
   "author": {
@@ -41,9 +41,9 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/cli-ctor": "^0.1.0",
-    "@stdlib/fs-resolve-parent-path": "^0.1.0",
-    "@stdlib/utils-convert-path": "^0.1.0",
+    "@stdlib/cli-ctor": "^0.1.1",
+    "@stdlib/fs-resolve-parent-path": "^0.1.1",
+    "@stdlib/utils-convert-path": "^0.1.1",
     "debug": "^2.6.9",
     "resolve": "^1.1.7"
   },
