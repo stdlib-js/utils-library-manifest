@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-library-manifest",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Load a manifest for compiling source files.",
   "license": "Apache-2.0",
   "author": {
@@ -41,19 +41,19 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/cli-ctor": "^0.1.1",
-    "@stdlib/fs-resolve-parent-path": "^0.2.0",
-    "@stdlib/utils-convert-path": "^0.2.0",
+    "@stdlib/cli-ctor": "^0.2.1",
+    "@stdlib/fs-resolve-parent-path": "^0.2.1",
+    "@stdlib/utils-convert-path": "^0.2.1",
     "debug": "^2.6.9",
     "resolve": "^1.1.7"
   },
   "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.1.1",
-    "@stdlib/assert-is-plain-object": "^0.1.1",
-    "@stdlib/assert-is-windows": "^0.1.1",
-    "@stdlib/fs-read-file": "^0.1.1",
-    "@stdlib/process-exec-path": "^0.1.1",
-    "@stdlib/utils-keys": "^0.1.0",
+    "@stdlib/assert-is-browser": "^0.2.0",
+    "@stdlib/assert-is-plain-object": "^0.2.0",
+    "@stdlib/assert-is-windows": "^0.2.1",
+    "@stdlib/fs-read-file": "^0.2.1",
+    "@stdlib/process-exec-path": "^0.2.0",
+    "@stdlib/utils-keys": "^0.2.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
