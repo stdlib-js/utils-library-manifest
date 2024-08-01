@@ -42,18 +42,18 @@
   },
   "dependencies": {
     "@stdlib/cli-ctor": "^0.2.2",
-    "@stdlib/fs-resolve-parent-path": "^0.2.1",
-    "@stdlib/utils-convert-path": "^0.2.1",
+    "@stdlib/fs-resolve-parent-path": "^0.2.2",
+    "@stdlib/utils-convert-path": "^0.2.2",
     "debug": "^2.6.9",
     "resolve": "^1.1.7"
   },
   "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.2.1",
+    "@stdlib/assert-is-browser": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
     "@stdlib/assert-is-windows": "^0.2.2",
     "@stdlib/fs-read-file": "^0.2.2",
-    "@stdlib/process-exec-path": "^0.2.1",
-    "@stdlib/utils-keys": "^0.2.1",
+    "@stdlib/process-exec-path": "^0.2.2",
+    "@stdlib/utils-keys": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
     "tap-min": "git+https://github.com/Planeshifter/tap-min.git"
