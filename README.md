@@ -174,7 +174,7 @@ var conf = manifest( './examples/manifest.json', conditions, opts );
           ]
         }
       ]
-    }   
+    }
     ```
 
 -   The function recursively walks the manifest dependency tree to resolve **all** source files, libraries, library paths, and include directories.
