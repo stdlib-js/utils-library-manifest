@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.3">
 
-## Unreleased (2025-08-12)
+## 0.2.3 (2026-01-25)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`e65c0c3`](https://github.com/stdlib-js/stdlib/commit/e65c0c3498a0b6236197286e973e1df620067f28) - **chore:** address lint failure by disabling lint rule _(by Philipp Burckhardt)_
+-   [`97f0e11`](https://github.com/stdlib-js/stdlib/commit/97f0e11fad5ac045777328c45d2ff595f568a5e0) - **chore:** use canonical format for JSDoc union types _(by Philipp Burckhardt)_
+-   [`07f7c05`](https://github.com/stdlib-js/stdlib/commit/07f7c0522c73e6ad9505e1d45035ae439344200d) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`153c9c1`](https://github.com/stdlib-js/stdlib/commit/153c9c19e7e5bc138e18500cea598365d6df55d8) - **style:** fix indentation in JSON files _(by Philipp Burckhardt)_
 
