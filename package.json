@@ -43,7 +43,7 @@
   "dependencies": {
     "@stdlib/cli-ctor": "^0.2.3",
     "@stdlib/fs-resolve-parent-path": "^0.2.3",
-    "@stdlib/utils-convert-path": "^0.2.2",
+    "@stdlib/utils-convert-path": "^0.2.3",
     "debug": "^2.6.9",
     "resolve": "^1.1.7"
   },
